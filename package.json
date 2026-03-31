@@ -1,0 +1,27 @@
+{
+  "name": "grupo6",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000r\u0000d\u0000u\u0000i\u0000n\u0000o\u0000-\u0000Q\u0000\r\u0000 \u0000",
+  "main": "java.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tadeo-sosa/arduino-Q.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tadeo-sosa/arduino-Q/issues"
+  },
+  "homepage": "https://github.com/Tadeo-sosa/arduino-Q#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "iovalkey": "^0.3.3"
+  }
+}
